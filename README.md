@@ -1,2 +1,5 @@
 # ct-skill-test
-CT-Skill-test
+
+CT-Skill-test- is the conversion of psd to html skill test.
+
+harshi0102.github.io/ct-skill-test/
